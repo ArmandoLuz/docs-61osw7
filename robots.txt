@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-kn2jt7.evergrowtech.net/sitemap.xml
